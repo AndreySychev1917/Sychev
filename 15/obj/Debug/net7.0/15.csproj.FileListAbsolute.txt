@@ -1,0 +1,15 @@
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\obj\Debug\net7.0\15.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\obj\Debug\net7.0\15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\obj\Debug\net7.0\15.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\obj\Debug\net7.0\15.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\obj\Debug\net7.0\15.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\bin\Debug\net7.0\15.exe
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\bin\Debug\net7.0\15.deps.json
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\bin\Debug\net7.0\15.runtimeconfig.json
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\bin\Debug\net7.0\15.dll
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\bin\Debug\net7.0\15.pdb
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\obj\Debug\net7.0\15.dll
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\obj\Debug\net7.0\refint\15.dll
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\obj\Debug\net7.0\15.pdb
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\obj\Debug\net7.0\15.genruntimeconfig.cache
+C:\Users\Andrey\Desktop\programming\C#\HW2\15\obj\Debug\net7.0\ref\15.dll
